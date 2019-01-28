@@ -23,7 +23,7 @@ body {
 .top{
 	height: 50%;
 	width: 100%;
-	background-color: #FFDCDB;
+	background-color: #FFC281;
 }
 .mid{
 	height: 50%;
@@ -54,4 +54,12 @@ body {
 .restrict-img-size {
 	max-height: 75%;
 	max-width: 75%;
+}
+.newest{
+	content:url(image/fav.jpg);
+	background-color: #FFE5BB;
+}
+.reptilia{
+	content:url(image/isthis.jpg);
+	background-color: #FFE5BB;
 }
